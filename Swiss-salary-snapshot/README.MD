@@ -1,4 +1,4 @@
-salary-data-analysis (
+salary-data-analysis 
 
 This is a beginner-friendly Python project to analyze salary trends .
 
