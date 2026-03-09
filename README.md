@@ -2,7 +2,7 @@
 
 ## About Me
 Junior AI Engineer | MSc Business Analytics — NEOMA Business School, France
-Targeting Junior AI Engineer roles in Switzerland — 2026
+Targeting Junior AI Engineer roles in May  2026
 
 ## Skills
 Python | SQL | Machine Learning | RAG | LangChain | Docker | FastAPI | Streamlit
